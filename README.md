@@ -1,7 +1,5 @@
 Sample Codes for built-in functions in Java Collection Framework.
 
-For a quick revision.
-
 01---> ArrayList
 
 02---> Stack
